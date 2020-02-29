@@ -2,3 +2,7 @@
 Ui design of a modern hoverable cards with a media.
 
 ## Free to download for learning and other stuffs.
+
+Visit my youtube channel : Frontend stacks
+
+link https://facebook.com
