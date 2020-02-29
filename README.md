@@ -5,4 +5,4 @@ Ui design of a modern hoverable cards with a media.
 
 Visit my youtube channel : Frontend stacks
 
-link https://facebook.com
+https://www.youtube.com/channel/UCoIfLUerVuh9GoThZ6fWSxA
